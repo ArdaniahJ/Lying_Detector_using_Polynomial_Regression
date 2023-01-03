@@ -31,7 +31,7 @@ The objective of this project is to aim to prove that linreg is not suitable to 
 ![linreg vs polyreg](https://user-images.githubusercontent.com/120354757/210300187-a625d6ec-4834-4912-a1d1-f2b9e4f668c1.png)
 
 ## Prob Desc
-There is a HR based Company, which is going to hire a new candidate. The candidate has told his/her previous salary 160K per annum, and the HR have to check whether the candidate is telling the truth or bluffing/lying. Therefore, to identify this, a dataset from the candidate's previous company per levels. From eyeballing the dataset, the pattern of the data is found out to be non-linearly disrtibuted between Position level vs salaries. Next, is to build a Bluffing Detector Regression model is to be used in the future so the HR can hire an honest candidate next time. 
+An HR based Company, which is going to hire a new candidate. The candidate has told his/her previous salary 160K per annum, and the HR have to check whether the candidate is telling the truth or bluffing/lying. Therefore, to identify this, a dataset from the candidate's previous company per levels. From eyeballing the dataset, the pattern of the data is found out to be non-linearly disrtibuted between Position level vs salaries. Next, is to build a Bluffing Detector Regression model is to be used in the future so the HR can hire an honest candidate next time. 
 
  
 ## Steps 
