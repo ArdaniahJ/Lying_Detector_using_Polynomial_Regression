@@ -21,7 +21,9 @@ Let's proceed with the project. Straight to the point; the data is not linearly 
 
 # Project
 
-Apology for the small dataset but you get the gist here right? I'd like to show that linreg is not for all type of data distribution (though it's a go to model 😝) and there's always a solution for that.
+Apology for the small dataset but you get the gist here right? I'd like to show that linreg is not for all type of data distribution (though it's a go to model 😝) and there's always a solution for that. 
+
+This project will prove the assumption Linearity and Independence (no.1 & no.3) mentioned above. 
 
 ## Objective 
 The objective of this project is to aim to prove that linreg is not suitable to fit the non-linear nature (polynomial) of data distribution with a low error and accuracy consecutively mitigate the error by producing the best fit line by converting the original features into polynomial features of few degree of polynomial and then modeled it using a linear model. Finally, a Bluffing Detector Reg model is said to be built using the finalized model. Below image is the objective of this project;
