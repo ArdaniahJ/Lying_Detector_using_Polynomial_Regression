@@ -1,8 +1,6 @@
 # You Are Lying!
 
-Nah...just kidding. I over exxagerated, I admitted it. 
-
-As the description says, this is a simple regression project; sorry, it's  __a non-linear regression__ 😝 to determine the relationship between independent variable X and dependent variable y when the data is not distributed linearly, hence the name; __Polynomial Regression__.
+As the description says, this is a regression project;, it's  __a non-linear regression__  to determine the relationship between independent variable X and dependent variable y when the data is not distributed linearly, hence the name; __Polynomial Regression__.
 
 We all have known what regression means right? No? It's okay, let me put it here;
 <br>
